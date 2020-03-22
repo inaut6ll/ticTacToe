@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UserInput
+comment0.text=\r\n\ Convenience\ class\ for\ getting\ input\ from\ a\ user\r\n
+comment1.params=
+comment1.target=java.lang.String\ getString()
+numComments=2
