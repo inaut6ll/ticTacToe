@@ -62,7 +62,7 @@ public class Driver {
                             if (c != -1) {
                                 r = c1;
                                 chosen = true;
-                                System.out.println("1");
+                                //System.out.println("1");
                             }
                             
                         }
@@ -74,7 +74,7 @@ public class Driver {
                                 if (r != -1) {
                                     c = c2;
                                     chosen = true;
-                                    System.out.println("2");
+                                    //System.out.println("2");
                                 }
                             }
                         }
@@ -85,7 +85,7 @@ public class Driver {
                                 if (r != -1) {
                                     c = r;
                                     chosen = true;
-                                    System.out.println("7");
+                                    //System.out.println("7");
                                 }
                             }
                         }
@@ -96,7 +96,7 @@ public class Driver {
                                 if (r != -1) {
                                     c = s - 1 - r;
                                     chosen = true;
-                                    System.out.println("4");
+                                    //System.out.println("4");
                                 }
                             }
                         }
@@ -108,7 +108,7 @@ public class Driver {
                                 if (c != -1) {
                                     r = c5;
                                     chosen = true;
-                                    System.out.println("5");
+                                    //System.out.println("5");
                                 }
                             }
                         }
@@ -120,7 +120,7 @@ public class Driver {
                                 if (r != -1) {
                                     c = c6;
                                     chosen = true;
-                                    System.out.println("6");
+                                    //System.out.println("6");
                                 }
                             }
                         }
@@ -131,7 +131,7 @@ public class Driver {
                                 if (r != -1) {
                                     c = r;
                                     chosen = true;
-                                    System.out.println("7");
+                                    //System.out.println("7");
                                 }
                             }
                         }
@@ -142,7 +142,7 @@ public class Driver {
                                 if (r != -1) {
                                     c = s - 1 - r;
                                     chosen = true;
-                                    System.out.println("4");
+                                    //System.out.println("4");
                                 }
                             }
                         }
